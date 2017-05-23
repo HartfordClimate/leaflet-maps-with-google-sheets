@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ## Live links (replace with your own)
 - Leaflet Map https://hartfordclimate.github.io/leaflet-maps-with-google-sheets/.
-- Google Sheets template https://docs.google.com/spreadsheets/d/1gWtel2riYNIhIIUwBDAnHAq6xIuthnDMbg9FEwd9GY8/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1C74lfKAh09c6Au3hAo5S_cslTuZZiC3ZKCieiLp4Mmw/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
